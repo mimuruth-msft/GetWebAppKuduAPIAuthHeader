@@ -26,7 +26,7 @@
 
 .INPUTS  None
 .OUTPUTS  None
-.NOTES  Version:        1.0  Author:         Michael  Creation Date:  11-02-2020  Purpose/Change: Initial script development
+.NOTES  Version:        1.0  Author:         Michael  Creation Date:  01-18-19  Purpose/Change: Initial script development
 
 .EXAMPLERun without parameters. You will still be prompted for required parameters. 
 GetWebAppKuduAPIAuthHeader.ps1
